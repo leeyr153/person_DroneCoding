@@ -1,5 +1,5 @@
-train: /train/images
-val:  /valid/images
+train: /content/person_DroneCoding/train/images
+val:  /content/person_DroneCoding/valid/images
 
 nc: 1
 names: ['person']
